@@ -1,0 +1,5 @@
+[trigger] woman standing in a field of flowers. She is wearing hoop earrings and a beautiful sundress. 4k, high definition photography --n bad anatomy, deformed, ugly --l 4.5 --s 28 --h 1024 --w 1024 --d 123456
+[trigger] woman is sitting in a chair inside a tattoo parlor. She had black hair and is clothed in an emo style. She has tattoos and piercings and is wearing cut off jean shorts and a white tank top. 4k, high definition photography --n bad anatomy, deformed, ugly --l 4.5 --s 28 --h 1024 --w 1024 --d 123456
+[trigger] woman is sitting in a church. She has ginger hair and freckles, hinting at an irish heritage. She is wearing a green embroidered dress. 4k, high definition photography --n bad anatomy, deformed, ugly --l 4.5 --s 28 --h 1024 --w 1024 --d 123456
+[trigger] woman is standing next to a wall in a backyard. She is waving --n bad anatomy, deformed, ugly --l 4.5 --s 28 --h 1024 --w 1024 --d 123456
+close up portrait of [trigger] woman, she is wearing a white shirt. 4k, high definition photography --n bad anatomy, deformed, ugly --l 4.5 --s 28 --h 1024 --w 1024 --d 123456
