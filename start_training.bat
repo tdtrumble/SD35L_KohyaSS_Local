@@ -11,7 +11,7 @@ accelerate launch ^
 --sdpa ^
 --persistent_data_loader_workers ^
 --max_data_loader_n_workers 2 ^
---seed 6969 ^
+--seed 123456 ^
 --gradient_checkpointing ^
 --mixed_precision bf16 ^
 --save_precision bf16 ^
